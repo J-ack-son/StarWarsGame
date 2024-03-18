@@ -4,3 +4,4 @@ It is console-based, but I am hoping that I can move it over to processing and u
 I want the player to be able to start over after they finish a quiz.
 I also want a limited amount of descriptions of the thing so that the ser can lose.
 I will include a win statement, start staement, and end statement.
+Count the attempts and tell them how many times they had to try.
