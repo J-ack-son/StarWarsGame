@@ -5,3 +5,21 @@ I want the player to be able to start over after they finish a quiz.
 I also want a limited amount of descriptions of the thing so that the ser can lose.
 I will include a win statement, start staement, and end statement.
 Count the attempts and tell them how many times they had to try.
+
+## Pseudo Code:
+Set personName = "John Doe"
+Set questions = [("What is the person's age?", "30"), ("Which country is the person from?", "USA"), ("What is the person's favorite color?", "blue")]
+Set score = 0
+Display "Welcome to the Person Quiz Game!"
+Display "Answer the following questions about " + personName
+For each question in questions:
+    Display question
+    Get playerInput
+    If playerInput is equal to correctAnswer:
+        Increment score by 1
+Display "Quiz complete! Your score is: " + score + " out of " + questions.length
+AskPlayer "Do you want to play again? (yes/no)"
+If player wants to play again:
+    Restart the quiz
+Else:
+    Display "Thank you for playing. Goodbye!"
