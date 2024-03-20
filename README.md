@@ -6,7 +6,10 @@ I also want a limited amount of descriptions of the thing so that the ser can lo
 I will include a win statement, start staement, and end statement.
 Count the attempts and tell them how many times they had to try.
 
-## Pseudo Code:
+# Developer
+Jackson Payne
+
+# Pseudo Code:
 ###For each quiz:
 * Set starWarsName = ""
 * Set questions = [(""), (""), (""),("")]
