@@ -7,7 +7,7 @@ I will include a win statement, start staement, and end statement.
 Count the attempts and tell them how many times they had to try.
 
 ## Pseudo Code:
-*For each quiz:
+###For each quiz:
 * Set starWarsName = ""
 * Set questions = [(""), (""), (""),("")]
 *Set score = 0
