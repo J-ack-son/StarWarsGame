@@ -14,12 +14,13 @@ Jackson Payne
 * Set names, movies, and planets in other classes
 * Set questions for each variable
 * Display "Welcome to the StarWars quiz Game!"
-* Display "Answer the following questions about " + starWarsName
 * For each question in questions:
    * Display question
    * Get playerInput
    * If playerInput is equal to correctAnswer:
      * say "correct"
+   * if playerInput isnt equal to correctAnswer:
+     * say incorrect and the right answer
 * AskPlayer "Do you want to play again? (yes/no)"
 * If player wants to play again:
    * Restart the quiz
