@@ -10,20 +10,18 @@ Count the attempts and tell them how many times they had to try.
 Jackson Payne
 
 # Pseudo Code:
-###For each quiz:
-* Set starWarsName = ""
-* Set questions = [(""), (""), (""),("")]
-*Set score = 0
-*Display "Welcome to the StarWars quiz Game!"
-*Display "Answer the following questions about " + starWarsName
-*For each question in questions:
+### For each quiz:
+* Set names, movies, and planets in other classes
+* Set questions for each variable
+* Display "Welcome to the StarWars quiz Game!"
+* Display "Answer the following questions about " + starWarsName
+* For each question in questions:
    * Display question
    * Get playerInput
    * If playerInput is equal to correctAnswer:
-       * Increment score by 1
-*Display "Quiz complete! Your score is: " + score + " out of " + questions.length
-*AskPlayer "Do you want to play again? (yes/no)"
-*If player wants to play again:
+     * say "correct"
+* AskPlayer "Do you want to play again? (yes/no)"
+* If player wants to play again:
    * Restart the quiz
 *Else:
    * Display "Thank you for playing. Goodbye!"
