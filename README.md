@@ -29,5 +29,5 @@ Jackson Payne
    * Display "Thank you for playing. Goodbye!"
  
 # Link to Repl Page/Source Code
-*(in order to view the code, you need to have a replit account)
-(https://replit.com/join/vthxuxlzlv-9622884) 
+(in order to view the code, you need to have a replit account)
+* (https://replit.com/join/vthxuxlzlv-9622884) 
