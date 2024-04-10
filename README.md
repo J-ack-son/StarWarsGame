@@ -1,23 +1,3 @@
-*           __
-* .-.__      \ .-.  ___  __
-* |_|  '--.-.-(   \/\;;\_\.-._______.-.
-* (-)___     \ \ .-\ \;;\(   \       \ \
-* Y    '---._\_((Q)) \;;\\ .-\     __(_)
-* I           __'-' / .--.((Q))---'    \,
-* I     ___.-:    \|  |   \'-'_          \
-* A  .-'      \ .-.\   \   \ \ '--.__     '\
-* |  |____.----((Q))\   \__|--\_      \     '
-*    ( )        '-'  \_  :  \-' '--.___\
-*     Y                \  \  \       \(_)
-*     I                 \  \  \         \,
-*     I                  \  \  \          \
-*     A                   \  \  \          '\
-*     |                    \  \__|           '
-*                           \_:.  \
-*                             \ \  \
-*                              \ \  \
-*                               \_\_|
-Art by Shanaka Dias
 # StarWarsGame
 This is a game that asks if you want to play a character, movie, or planet quiz about the star wars world.
 It is console-based, but I am hoping that I can move it over to processing and use graphics and sound. (image of thing after getting it)
