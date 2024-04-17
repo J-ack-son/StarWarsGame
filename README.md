@@ -2,12 +2,9 @@
 
 ![StarWars Logo](https://github.com/J-ack-son/StarWarsGame/blob/main/images/starwars.png?raw=true)
 
-This is a game that asks if you want to play a character, movie, or planet quiz about the star wars world.
-It is console-based, but I am hoping that I can move it over to processing and use graphics and sound. (image of thing after getting it)
-I want the player to be able to start over after they finish a quiz.
-I also want a limited amount of descriptions of the thing so that the user can lose.
-I will include a win statement, start staement, and end statement.
-Count the attempts and tell them how many times they had to try.
+This is a quiz game that asks the user about the Star Wars series. It asks if you want to play a character, movie, planet, or rapid-fire quiz about the star wars world.
+I the player can start over after they finish a quiz.
+It includes a win statement, start staement, and end statement.
 
 # Developer
 Jackson Payne
