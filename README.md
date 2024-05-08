@@ -12,7 +12,7 @@ Jackson Payne
 
 # UML Document:
 
-![StarWars Logo](https://github.com/J-ack-son/StarWarsGame/blob/main/images/starwars.png?raw=true)
+![StarWars Logo](https://github.com/J-ack-son/StarWarsGame/blob/main/images/StarWars%20Game.drawio.png?raw=true)
 
 # Pseudo Code:
 ### For each quiz:
