@@ -34,4 +34,8 @@ Jackson Payne
  
 # Link to Repl Page/Source Code
 (in order to view the code, you need to have a replit account)
-* [StarWars code]() 
+* [StarWars code: Main](https://github.com/J-ack-son/StarWarsGame/blob/main/src/Main.java)
+* [StarWars code: Person]()
+* [StarWars code: Movie]()
+* [StarWars code: Planet]()
+* [StarWars code: Questions]() 
