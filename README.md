@@ -36,6 +36,6 @@ Jackson Payne
 (in order to view the code, you need to have a replit account)
 * [StarWars code: Main](https://github.com/J-ack-son/StarWarsGame/blob/main/src/Main.java)
 * [StarWars code: Person]()
-* [StarWars code: Movie]()
+* [StarWars code: Movie](https://github.com/J-ack-son/StarWarsGame/blob/main/src/Movie.java)
 * [StarWars code: Planet]()
 * [StarWars code: Questions]() 
