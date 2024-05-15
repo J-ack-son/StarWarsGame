@@ -3,7 +3,7 @@
 ![StarWars Logo](https://github.com/J-ack-son/StarWarsGame/blob/main/images/starwars.png?raw=true)
 
 This is a quiz game that asks the user about the Star Wars series. It asks if you want to play a character, movie, planet, or rapid-fire quiz about the star wars world.
-I the player can start over after they finish a quiz.
+The player can start over after they finish a quiz.
 It includes a win statement, start staement, and end statement.
 
 # Developer
